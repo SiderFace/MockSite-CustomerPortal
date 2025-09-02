@@ -1,0 +1,5 @@
+
+
+window.header = () => ({
+  open: false
+});
